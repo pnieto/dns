@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T09:11:47.549Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.2" etag="YtZxJprwM-B1seNVlP6d" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-16T10:25:50.530Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.2" etag="RvAONohLZZmNMHWgtmzG" type="github" pages="2">
   <diagram id="2faf5dce-7580-3f3d-ac21-0b07bbbca74d" name="arquitectura usuario">
     <mxGraphModel dx="981" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -147,6 +147,9 @@
               <mxPoint x="580" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X0vUWLEfNfat0oMx3ESs-3" value="CCM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="312" width="22" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
